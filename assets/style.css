@@ -27,3 +27,10 @@
 .h300 {
     height:300px;
 }
+
+.fixedPos {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+
+}
